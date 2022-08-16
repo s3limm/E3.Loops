@@ -42,5 +42,10 @@ namespace Againfocused
 
             }
         }
+
+        private void BreakAndContinue_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hosgeldınız...");
+        }
     }
 }

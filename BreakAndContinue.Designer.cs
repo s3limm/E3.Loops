@@ -73,6 +73,7 @@
             this.Controls.Add(this.listBox1);
             this.Name = "BreakAndContinue";
             this.Text = "BreakAndContinue";
+            this.Load += new System.EventHandler(this.BreakAndContinue_Load);
             this.ResumeLayout(false);
 
         }
