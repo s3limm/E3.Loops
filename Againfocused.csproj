@@ -46,117 +46,117 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BreakAndContinue.cs">
+    <Compile Include="Forms\Break_And_Countinue\BreakAndContinue.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="BreakAndContinue.Designer.cs">
+    <Compile Include="Forms\Break_And_Countinue\BreakAndContinue.Designer.cs">
       <DependentUpon>BreakAndContinue.cs</DependentUpon>
     </Compile>
-    <Compile Include="doWhıle.cs">
+    <Compile Include="Forms\Loops\doWhıle.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="doWhıle.Designer.cs">
+    <Compile Include="Forms\Loops\doWhıle.Designer.cs">
       <DependentUpon>doWhıle.cs</DependentUpon>
     </Compile>
-    <Compile Include="ForeachLessons.cs">
+    <Compile Include="Forms\Loops\ForeachLessons.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ForeachLessons.Designer.cs">
+    <Compile Include="Forms\Loops\ForeachLessons.Designer.cs">
       <DependentUpon>ForeachLessons.cs</DependentUpon>
     </Compile>
-    <Compile Include="ForeachÖdev2.cs">
+    <Compile Include="Forms\Loops_Example\ForeachÖdev2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ForeachÖdev2.Designer.cs">
+    <Compile Include="Forms\Loops_Example\ForeachÖdev2.Designer.cs">
       <DependentUpon>ForeachÖdev2.cs</DependentUpon>
     </Compile>
-    <Compile Include="ForeachÖdevcs.cs">
+    <Compile Include="Forms\Loops_Example\ForeachÖdevcs.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ForeachÖdevcs.Designer.cs">
+    <Compile Include="Forms\Loops_Example\ForeachÖdevcs.Designer.cs">
       <DependentUpon>ForeachÖdevcs.cs</DependentUpon>
     </Compile>
-    <Compile Include="ForExample.cs">
+    <Compile Include="Forms\Loops_Example\ForExample.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ForExample.Designer.cs">
+    <Compile Include="Forms\Loops_Example\ForExample.Designer.cs">
       <DependentUpon>ForExample.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="Forms\Loops_Example\PrintName.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Forms\Loops_Example\PrintName.Designer.cs">
+      <DependentUpon>PrintName.cs</DependentUpon>
     </Compile>
-    <Compile Include="Lessons55.cs">
+    <Compile Include="Forms\Lessons\Lessons55.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Lessons55.Designer.cs">
+    <Compile Include="Forms\Lessons\Lessons55.Designer.cs">
       <DependentUpon>Lessons55.cs</DependentUpon>
     </Compile>
-    <Compile Include="Metods.cs">
+    <Compile Include="Forms\Metods\Metods.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Metods.Designer.cs">
+    <Compile Include="Forms\Metods\Metods.Designer.cs">
       <DependentUpon>Metods.cs</DependentUpon>
     </Compile>
-    <Compile Include="MetodsExample.cs">
+    <Compile Include="Forms\Metods\MetodsExample.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MetodsExample.Designer.cs">
+    <Compile Include="Forms\Metods\MetodsExample.Designer.cs">
       <DependentUpon>MetodsExample.cs</DependentUpon>
     </Compile>
-    <Compile Include="Parametres.cs">
+    <Compile Include="Forms\Lessons\Parametres.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Parametres.Designer.cs">
+    <Compile Include="Forms\Lessons\Parametres.Designer.cs">
       <DependentUpon>Parametres.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
+    <Compile Include="Forms\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ReturnMetod.cs">
+    <Compile Include="Forms\Metods\ReturnMetod.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ReturnMetod.Designer.cs">
+    <Compile Include="Forms\Metods\ReturnMetod.Designer.cs">
       <DependentUpon>ReturnMetod.cs</DependentUpon>
     </Compile>
-    <Compile Include="YazıTura.cs">
+    <Compile Include="Forms\Heads_Or_Tails\YazıTura.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="YazıTura.Designer.cs">
+    <Compile Include="Forms\Heads_Or_Tails\YazıTura.Designer.cs">
       <DependentUpon>YazıTura.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="BreakAndContinue.resx">
+    <EmbeddedResource Include="Forms\Break_And_Countinue\BreakAndContinue.resx">
       <DependentUpon>BreakAndContinue.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="doWhıle.resx">
+    <EmbeddedResource Include="Forms\Loops\doWhıle.resx">
       <DependentUpon>doWhıle.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ForeachLessons.resx">
+    <EmbeddedResource Include="Forms\Loops\ForeachLessons.resx">
       <DependentUpon>ForeachLessons.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ForeachÖdev2.resx">
+    <EmbeddedResource Include="Forms\Loops_Example\ForeachÖdev2.resx">
       <DependentUpon>ForeachÖdev2.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ForeachÖdevcs.resx">
+    <EmbeddedResource Include="Forms\Loops_Example\ForeachÖdevcs.resx">
       <DependentUpon>ForeachÖdevcs.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ForExample.resx">
+    <EmbeddedResource Include="Forms\Loops_Example\ForExample.resx">
       <DependentUpon>ForExample.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\Loops_Example\PrintName.resx">
+      <DependentUpon>PrintName.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Lessons55.resx">
+    <EmbeddedResource Include="Forms\Lessons\Lessons55.resx">
       <DependentUpon>Lessons55.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Metods.resx">
+    <EmbeddedResource Include="Forms\Metods\Metods.resx">
       <DependentUpon>Metods.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MetodsExample.resx">
+    <EmbeddedResource Include="Forms\Metods\MetodsExample.resx">
       <DependentUpon>MetodsExample.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Parametres.resx">
+    <EmbeddedResource Include="Forms\Lessons\Parametres.resx">
       <DependentUpon>Parametres.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -168,10 +168,10 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="ReturnMetod.resx">
+    <EmbeddedResource Include="Forms\Metods\ReturnMetod.resx">
       <DependentUpon>ReturnMetod.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="YazıTura.resx">
+    <EmbeddedResource Include="Forms\Heads_Or_Tails\YazıTura.resx">
       <DependentUpon>YazıTura.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
@@ -185,7 +185,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="Forms\App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

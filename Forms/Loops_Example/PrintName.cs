@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace Againfocused
 {
-    public partial class Form1 : Form
+    public partial class PrintName : Form
     {
-        string[] en = { "Emine", "Naz", "Aksoy" };
+        string[] en = { "Yavuz", "Selim", "Emrem" };
 
-        public Form1()
+        public PrintName()
         {
             InitializeComponent();
         }

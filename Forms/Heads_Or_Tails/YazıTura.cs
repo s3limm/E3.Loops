@@ -37,7 +37,7 @@ namespace Againfocused
                 result = MessageBox.Show("Yazı mı Tura mı\nYazı için Yes'i\n Tura için No'yu seçiniz.", "Soru", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
 
             } while (result.ToString() != questions);
-            MessageBox.Show("Doğru cevap :D");
+            MessageBox.Show("Doğru cevap.");
         }
     }
 }

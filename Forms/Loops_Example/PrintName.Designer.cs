@@ -1,6 +1,6 @@
 ﻿namespace Againfocused
 {
-    partial class Form1
+    partial class PrintName
     {
         /// <summary>
         /// Required designer variable.
